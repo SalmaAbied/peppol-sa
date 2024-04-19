@@ -104,7 +104,7 @@
         },
         "Cta":{
             "Title": "Découvrez comment Peppol peut optimiser votre cabinet comptable.",
-            "Button": "Plus d'informations"
+            "Button": "Contactez-nous"
         }
     },
     "Ondernemers": {
@@ -139,7 +139,7 @@
         },
         "Cta":{
             "Title": "Découvrez comment Peppol peut optimiser votre entreprise.",
-            "Button": "Plus d'informations"
+            "Button": "Contactez-nous"
         }
     },
     "Contact": {
