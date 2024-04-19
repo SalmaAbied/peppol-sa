@@ -4,9 +4,10 @@ import Tabs from './Tabs';
 import { blogPosts } from "../Data/DataBlog";
 import { ArrowLeft, ArrowRight } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
+import { blogPostTranslations } from '../Data/DataBlog';
 
 const Blog: React.FC = () => {
-  const { t } = useTranslation();
+  const { t, i18n } = useTranslation();
 
   const categories = [t('Blog.Cat1'), t('Blog.Cat2'), t('Blog.Cat3')];
   const postsPerPage = 9;
@@ -41,7 +42,6 @@ const Blog: React.FC = () => {
       <div className="gap-8 flex flex-wrap justify-center">
         {currentPosts.map((post, index) => (
           <div key={index} className="w-full relative h-96 lg:w-96 bg-gray-800 rounded-lg overflow-hidden shadow-lg">
-            {/* <Link to={`/Blog/${post.id}~${post.title.replace(' ', '-')}`}> */}
               <img src={post.imageUrl} alt={post.title} className="w-full h-96 object-cover transition duration-500" />
               <div className="absolute inset-0 flex flex-col justify-end p-6">
                 <div className="bg-black bg-opacity-50 rounded-lg shadow-lg p-4">
@@ -55,7 +55,6 @@ const Blog: React.FC = () => {
                   </div>
                 </div>
               </div>
-            {/* </Link> */}
           </div>
         ))}
       </div>

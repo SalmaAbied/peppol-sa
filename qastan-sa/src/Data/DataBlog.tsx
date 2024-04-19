@@ -23,8 +23,8 @@ export const blogPosts: BlogPost[] = [
     },
     category: "Peppol",
     imageUrl: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    extraImg: require("../components/img/before-after.png"),
-    extraImg1: require("../components/img/peppol-werking.png")
+    extraImg: require("../components/img/blog/blogpost1.nl.png"),
+    extraImg1: require("../components/img/blog/blogpost1.nl.png")
   },
   {
     id: '2',
@@ -97,8 +97,8 @@ export const blogPostTranslations:Translation = {
       },
       category: "Peppol",
       imageUrl: "https://img.freepik.com/free-photo/shipping-document-laptop-connection-homepage_53876-138115.jpg?t=st=1713357304~exp=1713360904~hmac=f74c4be16d6b74d1a8b61304965889ca4e12493a1e41722584208238d92a1001&w=1380",
-      extraImg: require("../components/img/before-after.png"),
-      extraImg1: require("../components/img/peppol-werking.png")
+      extraImg: require("../components/img/blog/blogpost1.nl.png"),
+      extraImg1: require("../components/img/blog/blogpost1.1.nl.png")
     },
     fr: {
       date: "17 avril 2024",
@@ -123,8 +123,8 @@ export const blogPostTranslations:Translation = {
       },
       category: "Peppol",
       imageUrl: "https://img.freepik.com/free-photo/shipping-document-laptop-connection-homepage_53876-138115.jpg?t=st=1713357304~exp=1713360904~hmac=f74c4be16d6b74d1a8b61304965889ca4e12493a1e41722584208238d92a1001&w=1380",
-      extraImg: require("../components/img/before-after.png"),
-      extraImg1: require("../components/img/peppol-werking.png")
+      extraImg: require("../components/img/blog/blogpost1.fr.png"),
+      extraImg1: require("../components/img/blog/blogpost1.1.fr.png")
     },
   },
 };
