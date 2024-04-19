@@ -44,12 +44,12 @@
             "Badge": "À partir de 2026",
             "Title": "Peppol devient <strong>obligatoire</strong> à partir du 1er janvier 2026",
             "Introduction": "À partir du 1er janvier 2026, Peppol sera obligatoire pour toutes les entreprises en Belgique, tant pour la facturation B2B (business-to-business) que B2G (business-to-government). Cette obligation est une étape importante dans la numérisation des processus de facturation et vise à améliorer l'efficacité et à réduire la fraude.",
-            "Title1": "Qu'est-ce que cela signifie pour votre entreprise ?",
-            "Paraghraphe1": "En agissant dès maintenant et en connectant votre entreprise au réseau Peppol, vous pouvez vous préparer à ce changement et garantir la continuité de vos processus de facturation. De plus, l'adoption précoce de Peppol peut donner à votre entreprise un avantage concurrentiel et vous aider à répondre aux réglementations de plus en plus strictes en matière de facturation et de protection des données.",
-            "Title2": "Qu'est-ce que cela signifie pour votre entreprise ?",
-            "Paraghraphe2": "Cela signifie que d'ici là, toutes les entreprises en Belgique devront se conformer à la norme Peppol pour l'envoi et la réception de factures électroniques. Cela concerne non seulement les transactions entre entreprises, mais aussi la facturation aux organismes gouvernementaux.",
-            "Title3": "Qu'est-ce que cela signifie pour votre entreprise ?",
-            "Paraghraphe3": "Chez Peppol, nous comprenons que ces changements peuvent être importants, c'est pourquoi nous sommes là pour vous accompagner dans la mise en œuvre de Peppol dans votre entreprise. Notre équipe d'experts peut vous conseiller et vous soutenir à chaque étape du processus, afin que vous soyez prêt pour l'avenir de la facturation. N'attendez pas qu'il soit trop tard. Contactez-nous dès aujourd'hui et laissez-nous vous aider à passer à Peppol.",
+            "Title1": "Qu'est-ce que cela signifie pour votre entreprise?",
+            "Paraghraphe1": "En prenant dès maintenant des mesures et en connectant votre entreprise au réseau Peppol, vous pouvez vous préparer à ce changement et vous assurer que vos processus de facturation continueront de fonctionner de manière transparente. De plus, l'adoption précoce de Peppol peut donner à votre entreprise un avantage concurrentiel et vous aider à vous conformer aux réglementations de plus en plus strictes en matière de facturation et de protection des données.",
+            "Title2": "Pourquoi choisir Peppol?",
+            "Paraghraphe2": "Peppol offre non seulement efficacité et précision dans les processus de facturation, mais il permet également à votre entreprise de se préparer aux changements futurs dans le paysage de la facturation. En faisant la transition vers Peppol dès aujourd'hui, vous pouvez positionner votre entreprise pour une croissance et un avantage concurrentiel à long terme.",
+            "Title3": "Profitez de Peppol dès aujourd'hui!",
+            "Paraghraphe3": "Chez Peppol, nous comprenons que ces changements peuvent être importants, c'est pourquoi nous sommes prêts à vous accompagner dans la mise en œuvre de Peppol dans votre entreprise. Notre équipe d'experts peut vous conseiller et vous soutenir à chaque étape du processus, afin que vous soyez prêt pour l'avenir de la facturation. N'attendez pas qu'il soit trop tard. Contactez-nous dès aujourd'hui et laissez-nous vous aider dans la transition vers Peppol.",
             "ReadMore": "En savoir plus",
             "ReadLess": "Afficher moins"
         },
@@ -104,7 +104,7 @@
         },
         "Cta":{
             "Title": "Découvrez comment Peppol peut optimiser votre cabinet comptable.",
-            "Button": "Plus d'informations"
+            "Button": "Prenez rendez-vous"
         }
     },
     "Ondernemers": {
@@ -139,7 +139,7 @@
         },
         "Cta":{
             "Title": "Découvrez comment Peppol peut optimiser votre entreprise.",
-            "Button": "Plus d'informations"
+            "Button": "Prenez rendez-vous"
         }
     },
     "Contact": {
@@ -157,26 +157,28 @@
         "FormSubmitted":"Votre message a été envoyé",
         "PlaceholderBericht": "Laisser une note...",
         "Button": "Envoyer le message",
+        "InvalidEmail": "L'adresse e-mail est invalide",
         "FAQ": {
         "Title": "Questions fréquemment posées",
         "Subtitle": "Voici quelques-unes de nos questions fréquemment posées. Si vous avez d'autres questions auxquelles vous aimeriez avoir une réponse, n'hésitez pas à nous contacter.",
-        "faq": [
-            {
+        "faq": {
+            "what":{
               "question": "Qu'est-ce que Peppol?",
               "answer": "Peppol permet d'envoyer des documents électroniques, tels que des factures, de manière structurée. Il s'agit d'un réseau sécurisé permettant d'échanger des factures électroniques avec toute personne enregistrée sur ce réseau. Peppol (Pan-European Public Procurement Online) deviendra obligatoire pour toutes les entreprises en Belgique à partir du 1er janvier 2026."
             },
-            {
+            "who":{
               "question": "Pour qui?",
               "answer": "Peppol est utilisé dans le monde entier comme norme pour la facturation électronique. En Belgique, l'obligation d'utiliser Peppol pour l'envoi et la réception des factures sera introduite à partir du 1er janvier 2026 pour toutes les entreprises ou organisations."
             },
-            {
+            "invoice":{
               "question": "Qu'est-ce qu'une facture électronique?",
               "answer": "Via le réseau Peppol, des factures électroniques sont envoyées. Il ne s'agit pas seulement d'envoyer une facture numérique au format PDF. Grâce à Peppol, les factures et les données de facturation sont envoyées selon des normes UBL (une norme internationale). Cela permet de lire et de traiter correctement les factures partout dans le monde. La facture PDF numérique est donc remplacée par la facture électronique."
             }
-          ]
+        }
         }
     },
     "Blog": {
+        "Title": "Blog",
         "Subtitle": "Découvrez notre",
         "Intro": "Découvrez les dernières tendances, astuces et actualités concernant la facturation électronique, Peppol et la numérisation des processus d'entreprise sur notre blog. Que vous soyez un chef d'entreprise cherchant à améliorer l'efficacité de la facturation, un comptable à la recherche de nouvelles opportunités ou simplement intéressé par l'avenir de la communication d'entreprise, notre blog a quelque chose à offrir à tout le monde.",
         "Cat": "Tous",
@@ -186,7 +188,8 @@
         "ReadMore": "Lire plus",
         "Questions": "Avez-vous des questions sur cette facturation électronique obligatoire ? Contactez l'un de nos spécialistes via",
         "Back": "Retour à l'aperçu",
-        "About": "Article sur"
+        "About": "Article sur",
+        "All": "Tous"
       },
     "Cookies":{
         "PrivacySubtitle": "Déclaration de confidentialité",

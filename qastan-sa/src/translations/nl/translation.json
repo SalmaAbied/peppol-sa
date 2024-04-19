@@ -46,9 +46,9 @@
       "Introduction": "Vanaf 1 januari 2026 wordt Peppol verplicht voor alle bedrijven in België, zowel voor B2B (business-to-business) als B2G (business-to-government) facturatie. Deze verplichting is een belangrijke stap in de digitalisering van facturatieprocessen en is bedoeld om de efficiëntie te verbeteren en fraude te verminderen.",
       "Title1": "Wat betekent dit voor uw bedrijf?",
       "Paraghraphe1": "Door nu al actie te ondernemen en uw bedrijf aan te sluiten op het Peppol-netwerk, kunt u zich voorbereiden op deze verandering en ervoor zorgen dat uw facturatieprocessen naadloos blijven verlopen. Bovendien kan vroegtijdige adoptie van Peppol uw bedrijf een concurrentievoordeel geven en u helpen om te voldoen aan de steeds strenger wordende regelgeving op het gebied van facturatie en gegevensbescherming.",
-      "Title2": "Wat betekent dit voor uw bedrijf?",
-      "Paraghraphe2": "Het betekent dat tegen die tijd alle bedrijven in België moeten voldoen aan de Peppol-standaard voor het verzenden en ontvangen van elektronische facturen. Dit geldt niet alleen voor transacties tussen bedrijven onderling, maar ook voor facturatie aan overheidsinstanties.",
-      "Title3": "Wat betekent dit voor uw bedrijf?",
+      "Title2": "Waarom kiezen voor Peppol?",
+      "Paraghraphe2": "Peppol biedt niet alleen efficiëntie en nauwkeurigheid in facturatieprocessen, maar het stelt uw bedrijf ook in staat om zich voor te bereiden op toekomstige veranderingen in de facturatielandschap. Door vandaag de overstap naar Peppol te maken, kunt u uw bedrijf positioneren voor groei en concurrentievoordeel op lange termijn.",
+      "Title3": "Profiteer van Peppol vandaag nog!",
       "Paraghraphe3": "Bij Peppol begrijpen we dat deze veranderingen ingrijpend kunnen zijn, daarom staan we klaar om u te begeleiden bij de implementatie van Peppol in uw bedrijf. Ons team van experts kan u adviseren en ondersteunen bij elke stap van het proces, zodat u klaar bent voor de toekomst van facturatie. Wacht niet tot het te laat is. Neem vandaag nog contact met ons op en laat ons u helpen bij de overstap naar Peppol.",
       "ReadMore": "Lees meer",
       "ReadLess": "Toon minder"
@@ -104,7 +104,7 @@
     },
     "Cta": {
       "Title": "Ontdek hoe Peppol uw boekhoudpraktijk kan optimaliseren.",
-      "Button": "Meer informatie"
+      "Button": "Boek een afspraak"
     }
   },
   "Ondernemers": {
@@ -139,7 +139,7 @@
     },
     "Cta": {
       "Title": "Ontdek hoe Peppol uw onderneming kan optimaliseren.",
-      "Button": "Meer informatie"
+      "Button": "Boek een afspraak"
     }
   },
   "Contact": {
@@ -155,28 +155,30 @@
     "PlaceholderOnderwerp": "Laat ons weten waarover het gaat", 
     "Bericht": "Stel je vraag",
     "FormSubmitted":"Je bericht is verzonden",
-    "PlaceholderBericht": "Laat een opmerking achter...",
+    "PlaceholderBericht": "Laat een bericht achter...",
     "Button": "Verstuur bericht",
+    "InvalidEmail": "E-mailadres is ongeldig",
     "FAQ": {
       "Title": "Veelgestelde vragen",
       "Subtitle": "Hier zijn enkele van onze veelgestelde vragen. Als je nog andere vragen hebt die je beantwoord wilt hebben, neem dan gerust contact met ons op.",
-      "faq": [
-        {
+      "faq": {
+        "what": {
           "question": "Wat is Peppol?",
           "answer": "Peppol laat toe om op een gestructureerde manier elektronische documenten, zoals facturen, te versturen. Het is een veilig netwerk dat toelaat om e-facturen of e-invoices uit te wisselen met iedereen die geregistreerd is op dit netwerk. Peppol (Pan-European Public Procurement Online) wordt in België voor elke onderneming verplicht vanaf 1 januari 2026."
         },
-        {
+        "who":{
           "question": "Voor wie?",
           "answer": "Peppol wordt wereldwijd gebruikt als een standaard voor digitale e-facturatie. In België wordt de verplichting om Peppol te gebruiken bij het ontvangen en versturen van facturen ingevoerd vanaf 1 januari 2026 en dit voor elk bedrijf of organisatie."
         },
-        {
+        "invoice":{
           "question": "Wat is een digitale elektronische factuur?",
           "answer": "Via het Peppol-netwerk worden e-facturen of e-invoices verstuurd. Dit gaat verder dan een factuur digitaal in pdf versturen. Via Peppol worden facturen en factuurgegevens immers verstuurd volgens UBL-standaarden (een internationale standaard). Hierdoor kunnen facturen overal ter wereld correct uitgelezen en verwerkt worden. De digitale pdf-factuur wordt met andere woorden vervangen door de elektronische factuur."
         }
-      ]
+      }
     }
   },
   "Blog": {
+    "Title": "Blog",
     "Subtitle": "Ontdek onze",
     "Intro": "Ontdek de laatste trends, tips en nieuws over elektronische facturatie, Peppol en de digitalisering van bedrijfsprocessen op onze blog. Of je nu een bedrijfseigenaar bent die de efficiëntie van facturatie wil verbeteren, een accountant op zoek naar nieuwe mogelijkheden, of gewoon geïnteresseerd bent in de toekomst van zakelijke communicatie, onze blog heeft voor elk wat wils.",
     "Cat": "Alle",
@@ -186,7 +188,8 @@
     "ReadMore": "Lees meer",
     "Questions": "Heb je vragen over deze verplichte elektronische facturatie? Neem dan contact op met één van onze specialisten via",
     "Back": "Terug naar overzicht",
-    "About": "Artikel over"
+    "About": "Artikel over",
+    "All": "Alle"
   },
   "Cookies":{
     "PrivacySubtitle": "Privacyverklaring",
