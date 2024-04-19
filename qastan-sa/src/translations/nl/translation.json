@@ -155,8 +155,9 @@
     "PlaceholderOnderwerp": "Laat ons weten waarover het gaat", 
     "Bericht": "Stel je vraag",
     "FormSubmitted":"Je bericht is verzonden",
-    "PlaceholderBericht": "Laat een opmerking achter...",
+    "PlaceholderBericht": "Laat een bericht achter...",
     "Button": "Verstuur bericht",
+    "InvalidEmail": "E-mailadres is ongeldig",
     "FAQ": {
       "Title": "Veelgestelde vragen",
       "Subtitle": "Hier zijn enkele van onze veelgestelde vragen. Als je nog andere vragen hebt die je beantwoord wilt hebben, neem dan gerust contact met ons op.",

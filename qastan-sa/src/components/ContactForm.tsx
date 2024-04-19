@@ -99,6 +99,7 @@ const ContactPage: React.FC = () => {
                   placeholder={t('Contact.PlaceholderBericht')}
                   value={message}
                   onChange={(event) => setMessage(event.target.value)}
+                  maxLength={500} 
                   required
                 ></textarea>
               </div>

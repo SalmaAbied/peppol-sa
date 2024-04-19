@@ -157,6 +157,7 @@
         "FormSubmitted":"Votre message a été envoyé",
         "PlaceholderBericht": "Laisser une note...",
         "Button": "Envoyer le message",
+        "InvalidEmail": "L'adresse e-mail est invalide",
         "FAQ": {
         "Title": "Questions fréquemment posées",
         "Subtitle": "Voici quelques-unes de nos questions fréquemment posées. Si vous avez d'autres questions auxquelles vous aimeriez avoir une réponse, n'hésitez pas à nous contacter.",
