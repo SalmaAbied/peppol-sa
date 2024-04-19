@@ -43,10 +43,26 @@ interface BlogItemProps {
 interface ItemProps {
   answerID: string;
   questionID: string;
-  question: string;
-  answer: string;
+  question?: string;
+  answer?: string;
   isActive: boolean;
   onClick: () => void;
   ariaExpanded: boolean;
   backgroundColor?: string;
+}
+
+// Blog Article
+interface Translation {
+  [blogId:string]: TransObject
+}
+
+interface TransObject {
+  [lang:string]: LangTrans
+}
+
+interface LangTrans {
+  date: string;
+  title: string;
+  subtitle: string;
+  [key:string]: any
 }

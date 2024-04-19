@@ -161,20 +161,20 @@
         "FAQ": {
         "Title": "Questions fréquemment posées",
         "Subtitle": "Voici quelques-unes de nos questions fréquemment posées. Si vous avez d'autres questions auxquelles vous aimeriez avoir une réponse, n'hésitez pas à nous contacter.",
-        "faq": [
-            {
+        "faq": {
+            "what":{
               "question": "Qu'est-ce que Peppol?",
               "answer": "Peppol permet d'envoyer des documents électroniques, tels que des factures, de manière structurée. Il s'agit d'un réseau sécurisé permettant d'échanger des factures électroniques avec toute personne enregistrée sur ce réseau. Peppol (Pan-European Public Procurement Online) deviendra obligatoire pour toutes les entreprises en Belgique à partir du 1er janvier 2026."
             },
-            {
+            "who":{
               "question": "Pour qui?",
               "answer": "Peppol est utilisé dans le monde entier comme norme pour la facturation électronique. En Belgique, l'obligation d'utiliser Peppol pour l'envoi et la réception des factures sera introduite à partir du 1er janvier 2026 pour toutes les entreprises ou organisations."
             },
-            {
+            "invoice":{
               "question": "Qu'est-ce qu'une facture électronique?",
               "answer": "Via le réseau Peppol, des factures électroniques sont envoyées. Il ne s'agit pas seulement d'envoyer une facture numérique au format PDF. Grâce à Peppol, les factures et les données de facturation sont envoyées selon des normes UBL (une norme internationale). Cela permet de lire et de traiter correctement les factures partout dans le monde. La facture PDF numérique est donc remplacée par la facture électronique."
             }
-          ]
+        }
         }
     },
     "Blog": {

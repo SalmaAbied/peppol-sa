@@ -71,8 +71,9 @@ export const blogPosts: BlogPost[] = [
     extraImg: ""
   },
 ];
-export const blogPostTranslations = {
-  1: {
+
+export const blogPostTranslations:Translation = {
+  "1": {
     nl: {
       date: "17 april 2024",
       title: "E-facturatie (Peppol) vanaf 2026 verplicht in België",
@@ -127,3 +128,4 @@ export const blogPostTranslations = {
     },
   },
 };
+
