@@ -178,6 +178,7 @@
         }
     },
     "Blog": {
+        "Title": "Blog",
         "Subtitle": "Découvrez notre",
         "Intro": "Découvrez les dernières tendances, astuces et actualités concernant la facturation électronique, Peppol et la numérisation des processus d'entreprise sur notre blog. Que vous soyez un chef d'entreprise cherchant à améliorer l'efficacité de la facturation, un comptable à la recherche de nouvelles opportunités ou simplement intéressé par l'avenir de la communication d'entreprise, notre blog a quelque chose à offrir à tout le monde.",
         "Cat": "Tous",
